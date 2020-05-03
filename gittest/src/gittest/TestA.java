@@ -2,6 +2,6 @@ package gittest;
 
 public class TestA {
 	public static void main(String[] args) {
-		System.out.println("A12345");
+		System.out.println("A123");
 	}
 }
